@@ -384,12 +384,12 @@ img.mfp-img {
    opacity: 0;
 }
 .plans_table thead{
-	background:#7344B0;
+	background:#179cd7;
 	font-family: 'Roboto', sans-serif;
 }
 .plans_table thead th.plans-list{
 	padding:15px 0;
-	border:1px solid #652EAC;
+	border:1px solid #bbb;
 }
 .plans_table thead th.plans-list h3{
 	font-size: 1.2em;

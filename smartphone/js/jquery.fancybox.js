@@ -2017,5 +2017,4 @@
 		$("<style type='text/css'>.fancybox-margin{margin-right:" + (w2 - w1) + "px;}</style>").appendTo("head");
 	});
 
-
 }(window, document, jQuery));
